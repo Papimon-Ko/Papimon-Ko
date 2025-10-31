@@ -37,10 +37,6 @@ I'm a **Statistical Data Science and Analytics** student at King Mongkut's Unive
 ### 📊 [Fraud Detection]([link-to-repo](https://github.com/Papimon-Ko/spark-fraud-detection))
 Developed fraud detection system handling highly imbalanced dataset through undersampling techniques and class weight tuning. Achieved high recall while maintaining precision using Random Forest classifier.
 
-## 🏆 Achievements
-- 🥇 [Competition name] - Top X% on Kaggle
-- 📜 [Certificate name] - Coursera/DataCamp
-- 🎯 [Any other achievements]
 
 ## 📫 Connect With Me
 
