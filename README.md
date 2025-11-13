@@ -28,7 +28,7 @@ I'm a **Statistical Data Science and Analytics** student at King Mongkut's Unive
 - Jupyter Notebook | Google Colab | VS Code | R Studio | Databricks
 - Git | GitHub
 - Excel | Google Sheets
-- MongoDB | SQLite
+- MongoDB | SQL Server
 - SPSS
 
 
