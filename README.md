@@ -32,12 +32,6 @@ I'm a **Statistical Data Science and Analytics** student at King Mongkut's Unive
 - SPSS
 
 
-## 🚀 Featured Projects
-
-### 📊 [Fraud Detection]([link-to-repo](https://github.com/Papimon-Ko/spark-fraud-detection))
-Developed fraud detection system handling highly imbalanced dataset through undersampling techniques and class weight tuning. Achieved high recall while maintaining precision using Random Forest classifier.
-
-
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/papimon-kongnark-72738126b)
